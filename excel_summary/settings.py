@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-s!+yd=*4ler%+dfq(q*(8o6h(v#_!cq_cwf9nmpcl*j7_e8z)^
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['django-summry.onrender.com']
 
 
 # Application definition
